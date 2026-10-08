@@ -28,3 +28,7 @@ This is a teaching/demo module, not a finished trading product. The MA cross is 
 
 ---
 *Built by Dror Munk — MT5/MQL5 EA development with prop-firm compliance and backtest validation. Available for retrofits, audits, and custom builds.*
+
+## AI-assisted maintenance
+
+See [AGENTS.md](AGENTS.md) for session startup confirmation and the Brain/Hands workflow with outside Oracle review of the plan and final results.
